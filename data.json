@@ -1,0 +1,16 @@
+[
+    {
+      "category": "cats",
+      "links": ["https://catfact.ninja/fact"]
+
+    },
+    {
+      "category": "dogs",
+      "links": ["https://dog.ceo/api/breeds/image/random"]
+
+    },
+    {
+        "category": "prediction",
+        "links": ["https://api.agify.io/?name=anna","https://api.genderize.io/?name=anna"]
+    }
+  ]
